@@ -7,6 +7,10 @@ for x in range(69,64,-1):
 """
 # pattern
 
-
+EEEEE
+DDDDD
+CCCCC
+BBBBB
+AAAAA
 
 """

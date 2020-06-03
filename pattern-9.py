@@ -6,10 +6,10 @@ for x in range(5):
 """
 # pattern
 
-EEEEE
-DDDDD
-CCCCC
-BBBBB
-AAAAA
+EDCBA
+EDCBA
+EDCBA
+EDCBA
+EDCBA
 
 """
