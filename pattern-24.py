@@ -16,10 +16,10 @@ for x in range(1,n+1):
 """
 # p[attern 
 
-EDCBA
-EDCB
-EDC
-ED
-E
+    *
+   * *
+  *   *
+ *     *
+*       *
 
 """
