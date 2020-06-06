@@ -17,3 +17,19 @@ for x in range(1,wh+1):
         else:
             print('*',end='')
     print()
+
+
+"""
+# p[attern 
+
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+
+"""
